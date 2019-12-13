@@ -1,0 +1,59 @@
+.global {
+    margin: 0 auto;
+    text-align: center;
+    width: 90%;
+}
+
+.but {
+	border: 7px solid;
+    border-style: outset;
+    margin: 1%;
+    width: 12%;
+    background: #FFF;
+}
+
+img.but:hover {
+    cursor: pointer;
+    border-style: inset;
+    width: 11%;
+    padding: 0.5%;
+}
+
+.start {
+	margin-top: 1%;
+}
+
+.loto {
+	margin-top: 1%;
+}
+
+.see {
+	margin-left: auto;
+    margin-right: auto;
+	background: #FFF;
+	font-family: sans-serif;
+	width: 17%;
+}
+
+.standart {
+    display: block;
+    font-size: 120%;
+    width: 43%;
+    margin: 0 auto;
+    border: 1px solid;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+	border: 0px solid;
+    margin: 1%;
+    background: #FFF;
+}
+
+html, body{
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+	background: url(images/bg.jpg);
+}
