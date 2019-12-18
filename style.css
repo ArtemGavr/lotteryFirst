@@ -24,7 +24,8 @@ img.but:hover {
 }
 
 .loto {
-	margin-top: 1%;
+    margin-top: 1%;
+    
 }
 
 .see {
@@ -32,7 +33,8 @@ img.but:hover {
     margin-right: auto;
 	background: #FFF;
 	font-family: sans-serif;
-	width: 17%;
+    width: 17%;
+   
 }
 
 .standart {
@@ -44,6 +46,10 @@ img.but:hover {
     font-family: sans-serif;
 }
 
+.bot {
+	margin-top: 2%;
+}
+
 h1 {
     text-align: center;
 	border: 0px solid;
@@ -53,7 +59,7 @@ h1 {
 
 html, body{
     margin: 0;
+	overflow: scroll ;
     height: 100%;
-    overflow: hidden;
 	background: url(images/bg.jpg);
 }
